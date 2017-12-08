@@ -25,9 +25,9 @@ class users{
 		return true;
 	}
 	
-	public function signin($email,$pass)
+	public function signin($email,$password)
 	{
-		$query=$this->conn->query("select email,pass from signup where email='$email' and pass='$pass'");
+		$query=$this->conn->query("select email,password from signup where email='$email' and password='$password'");
 	    $query->fetch_array(MYSQLI_ASSOC);
 		if($query->num_rows>0)
 		{

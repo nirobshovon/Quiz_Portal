@@ -11,15 +11,15 @@
 			
 			<tr height="60">
 				<td align="center">
-					<font face="verdana"><a href="account.html">Home</a></font>
+					<font face="verdana"><a href="home.php">Home</a></font>
 				</td>
 				
 				<td align="center">
-					<font face="verdana"><a href="Profile.html">Profile</a></font>
+					<font face="verdana"><a href="Profile.php">Profile</a></font>
 				</td>
 				
 				<td align="center">
-					<font face="verdana"><a href="quiz.html">Your Quiz</a></font>
+					<font face="verdana"><a href="quiz.php">Your Quiz</a></font>
 				</td>
 			</tr>
 			

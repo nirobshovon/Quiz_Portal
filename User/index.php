@@ -1,6 +1,6 @@
 <title>Home</title>
 <body>
-		<form>
+		<form action="signin_sub.php" method="post">
 		<table border="5" width="100%" align="center">
 			<tr height="60" align="center" bgcolor="#32294B">
 				<td  colspan="2">
